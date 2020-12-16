@@ -1,2 +1,1 @@
-# ClashJS
-This is a BETA HTML5 canvas library
+The JS file will come soon...
