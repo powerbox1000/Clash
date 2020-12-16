@@ -7,5 +7,5 @@ ClashJS is still under development, but you can check the progress below:<br><br
 # FAQ
 ## When will ClashJS be finished?
 It will constantly worked on, but all the features will be added by Feb. 28, 2021.
-## How can I join beta testing
+## How can I join beta testing?
 We are not currently accepting beta testers. We may start accepting them in the future.
